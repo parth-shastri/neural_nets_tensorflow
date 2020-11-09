@@ -1,5 +1,5 @@
 # neural_nets_tensorflow
-Just a small set of projects from a student who loves to play with the artificial thinking!
+Just a small set of projects from a student who loves to play with Deep-learning!
 
 
 THIS INCLUDES ALMOST ALL KINDS OF MODELS IN TENSORFLOW REALTED WITH IMAGE CLASSIFICATION, SENTIMENT ANALYSIS, RNN, LSTMS, OCR RECOGNITION,etc.
